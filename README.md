@@ -1,5 +1,5 @@
 # pdf
-pdfs jornal madeirão
+arquivo pdfs jornal madeirão
 
 git status
 

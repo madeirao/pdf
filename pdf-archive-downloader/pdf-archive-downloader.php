@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: PDF Archive Downloader
- * Plugin URI: https://madeiraoweb.com.br/plugins/pdf-archive-downloader
+ * Plugin URI: https://madeiraoweb.com.br
  * Description: Plugin para gerenciar e disponibilizar o download de PDFs de edições do jornal por data.
  * Version: 1.0.0
  * Author: Marcelo Pereira
@@ -14,7 +14,7 @@ defined('ABSPATH') || exit;
 class PDF_Archive_Downloader {
     
     private static $instance = null;
-    const GITHUB_REPO = 'madeirao/pdf'; // Altere para seu repositório
+    const GITHUB_REPO = 'madeirao/pdf';
     const GITHUB_BRANCH = 'main';
     
     public static function get_instance() {
