@@ -1,0 +1,144 @@
+{
+  "id": 51480,
+  "date": "2021-02-17T01:31:15",
+  "date_gmt": "2021-02-17T04:31:15",
+  "guid": {
+    "rendered": "http://madeiraoweb.com.br/?post_type=elementor_library&#038;p=51480",
+    "raw": "http://madeiraoweb.com.br/?post_type=elementor_library&#038;p=51480"
+  },
+  "modified": "2025-10-16T02:02:27",
+  "modified_gmt": "2025-10-16T06:02:27",
+  "password": "",
+  "slug": "jornal-madeirao-flip-popup",
+  "status": "publish",
+  "type": "elementor_library",
+  "link": "https://madeiraoweb.com.br/?elementor_library=jornal-madeirao-flip-popup",
+  "title": {
+    "raw": "Jornal Madeirão Flip Popup",
+    "rendered": "Jornal Madeirão Flip Popup"
+  },
+  "author": 1,
+  "featured_media": 54583,
+  "template": "",
+  "meta": {
+    "_elementor_edit_mode": "builder",
+    "_elementor_template_type": "popup",
+    "_elementor_data": "[{\"id\":\"517e27b\",\"elType\":\"section\",\"settings\":{\"layout\":\"full_width\",\"content_width\":{\"unit\":\"px\",\"size\":1600,\"sizes\":[]},\"gap\":\"no\",\"height\":\"full\"},\"elements\":[{\"id\":\"18c4806\",\"elType\":\"column\",\"settings\":{\"_column_size\":100,\"_inline_size\":100},\"elements\":[{\"id\":\"9799e49\",\"elType\":\"widget\",\"settings\":{\"html\":\"<iframe src=\\\"https:\\/\\/flipbookpdf.net\\/web\\/site\\/80fde7731264580658124faa09aad14f901c5a7a202510.pdf.html\\\" style=\\\"position:fixed; top:0; left:0; bottom:0; right:0; width:100%; height:100%; border:none; margin:0; padding:0; overflow:hidden; z-index:0;\\\">\\r\\n    O seu navegador n\\u00e3o suporta iframes.\\r\\n<\\/iframe>\",\"_element_cache\":\"yes\"},\"elements\":[],\"widgetType\":\"html\"}],\"isInner\":false}],\"isInner\":false}]",
+    "_elementor_page_settings": {
+      "width": {
+        "unit": "vw",
+        "size": 100,
+        "sizes": []
+      },
+      "vertical_position": "top",
+      "eael_ext_toc_title": "Table of Contents",
+      "close_button_vertical": {
+        "unit": "px",
+        "size": 15,
+        "sizes": []
+      },
+      "close_button_horizontal": {
+        "unit": "%",
+        "size": 80,
+        "sizes": []
+      },
+      "close_button_color": "#FF0000",
+      "icon_size": {
+        "unit": "px",
+        "size": 36,
+        "sizes": []
+      }
+    },
+    "_elementor_conditions": [
+      "include/singular/page/34764",
+      "include/singular/page/41102"
+    ]
+  },
+  "permalink_template": "https://madeiraoweb.com.br/?elementor_library=jornal-madeirao-flip-popup",
+  "generated_slug": "jornal-madeirao-flip-popup",
+  "class_list": [
+    "post-51480",
+    "elementor_library",
+    "type-elementor_library",
+    "status-publish",
+    "has-post-thumbnail",
+    "hentry"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://madeiraoweb.com.br/wp-json/wp/v2/elementor_library/51480",
+        "targetHints": {
+          "allow": [
+            "GET",
+            "POST",
+            "PUT",
+            "PATCH",
+            "DELETE"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://madeiraoweb.com.br/wp-json/wp/v2/elementor_library"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://madeiraoweb.com.br/wp-json/wp/v2/types/elementor_library"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://madeiraoweb.com.br/wp-json/wp/v2/users/1"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 11,
+        "href": "https://madeiraoweb.com.br/wp-json/wp/v2/elementor_library/51480/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 161885,
+        "href": "https://madeiraoweb.com.br/wp-json/wp/v2/elementor_library/51480/revisions/161885"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://madeiraoweb.com.br/wp-json/wp/v2/media/54583"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://madeiraoweb.com.br/wp-json/wp/v2/media?parent=51480"
+      }
+    ],
+    "wp:action-publish": [
+      {
+        "href": "https://madeiraoweb.com.br/wp-json/wp/v2/elementor_library/51480"
+      }
+    ],
+    "wp:action-unfiltered-html": [
+      {
+        "href": "https://madeiraoweb.com.br/wp-json/wp/v2/elementor_library/51480"
+      }
+    ],
+    "wp:action-assign-author": [
+      {
+        "href": "https://madeiraoweb.com.br/wp-json/wp/v2/elementor_library/51480"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}
